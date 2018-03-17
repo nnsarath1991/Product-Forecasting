@@ -57,8 +57,6 @@ c) All SKUs - Combines a) and b) to give the overall model performance
  -> Hybrid, Combination of ETS and ARIMA, my novel idea part of this project!
  13. Used the results for forecasting the right product-customer combination using my powerful analysis tool!!
  
- RShiny Link -  https://sarathkumarnallusamyrshiny.shinyapps.io/Product_Forecasting/
- 
  Thanks for using my Application!
  
 
