@@ -22,10 +22,7 @@ We companred the results and developed a RShiny application for team usage.
 
 Metrics used - Absolute Percentage Error (APE)
 
-Using my code:
-
-1. Import all the necessary libraries
-2. Connect all the source files from src folder. This performs the core-logic with plots and accuracy calculation.
-3. Click on, 'RunApp' forking my app.R from RStudio
+RShiny Link:
+https://sarathkumarnallusamyrshiny.shinyapps.io/Product_Forecasting/
 
 Comments are welcome!
