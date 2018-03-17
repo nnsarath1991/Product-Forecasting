@@ -1,6 +1,6 @@
 # Product-Forecasting
 
-This R Shiny application uses confidential production and sales data of a company to be confidential. 
+This R Shiny application uses confidential production and sales data of a company. 
 The goal is to build an inhouse forecasting tool for analyzing aggregated datasets with multiple forecasting techniques. 
 Since this is a business problem, the problem was approached in 3 steps:
 
@@ -25,5 +25,7 @@ Metrics used - Absolute Percentage Error (APE)
 Using my code:
 
 1. Import all the necessary libraries
-2. Connect all the source files required which performs the core-logic with plots and accuracy calculation
-3. Click on, 'RunApp' forking my app.R
+2. Connect all the source files from src folder. This performs the core-logic with plots and accuracy calculation.
+3. Click on, 'RunApp' forking my app.R from RStudio
+
+Comments are welcome!
