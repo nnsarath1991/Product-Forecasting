@@ -1,7 +1,7 @@
 #############################################################################
 ##Author  -  Sarathkumar Nachiappan Nallusamy
-##Subject -  ProductForecast App  SMA only before wrting functions
-#####################################################################
+##Subject -  ProductForecast App  
+#############################################################################
 
 #Ensure the libraries are loaded to your local system 
 library("xlsx")
