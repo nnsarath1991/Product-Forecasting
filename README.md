@@ -19,3 +19,11 @@ Time Series Forecasting:
 After extensive research on initial analysis and segmentation, I built on to Naive, Moving Average(MA, Exponential 
 Time Smoothing(ETS), Auto-Regression and Moving Average(ARIMA), Hybrid Model(Combination of ARIMA and ETS parameters).
 We companred the results and developed a RShiny application for team usage.
+
+Metrics used - Absolute Percentage Error (APE)
+
+Using my code:
+
+1. Import all the necessary libraries
+2. Connect all the source files required which performs the core-logic with plots and accuracy calculation
+3. Click on, 'RunApp' forking my app.R
